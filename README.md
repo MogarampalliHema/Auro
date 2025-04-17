@@ -2,7 +2,8 @@ DOCUMENT MANAGEMENT AND RAG-BASED Q&A APPLICATION:
 Overview of Large Language Models (LLMs)
 Large Language Models are advanced AI systems trained on vast amounts of text data to understand and generate human-like language
 They are built upon transformer architectures, enabling them to capture complex patterns in language
-Prominent examples include OpenAI's GPT series and Meta's LLaMA modelsThese models can perform various tasks such as text generation, translation, summarization, and code generation
+Prominent examples include OpenAI's GPT series and Meta's LLaMA models
+These models can perform various tasks such as text generation, translation, summarization, and code generation
 Python's Role in LLM Projects
 Python is the predominant language for developing and deploying LLMs due to its simplicity and the rich ecosystem of librarie.
 Key libraries include:
